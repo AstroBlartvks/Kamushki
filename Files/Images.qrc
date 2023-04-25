@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Penumbra.png</file>
+    <file>BigChukcha.png</file>
+    <file>MiniChukcha.png</file>
+    <file>options.png</file>
+  </qresource>
+</RCC>
