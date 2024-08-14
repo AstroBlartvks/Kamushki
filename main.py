@@ -4,7 +4,6 @@ from Form import Ui_MainWindow
 import sys
 
 #pyrcc5 images.qrc -o Images_rc.py
-#2Ov8AGLlHWTkPP4mTHmGCAsxnTZ_6Fm4SJMx2dZmGS8m2YUJa
 
 class mywindow(QtWidgets.QMainWindow):
     def __init__(self):
